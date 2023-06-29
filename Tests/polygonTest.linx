@@ -1,0 +1,2 @@
+;; create a polygon
+plgn fill 300 200 400 500 200 400

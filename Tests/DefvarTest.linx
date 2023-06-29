@@ -1,0 +1,6 @@
+defvar color test 255 128 0 255   ;; color type means a array of 3 numbers
+defvar num numtest 90
+defvar str stringtest test with long variable text length
+write 90 90 $numtest
+defcolor $test
+write 378 120 $stringtest

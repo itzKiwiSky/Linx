@@ -1,0 +1,14 @@
+defcolor 200 145 62 255
+rect fill 190 190 32 32
+defcolor 232 208 170 255
+rect fill 190 190 32 3
+rect fill 190 190 3 32
+defcolor 111 63 0 255
+rect fill 190 219 32 3 
+rect fill 219 190 3 32
+;; decorations
+rect fill 197 197 3 18
+rect fill 197 197 18 3
+defcolor 232 208 170 255
+rect fill 197 212 18 3
+rect fill 212 197 3 18

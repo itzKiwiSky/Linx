@@ -1,0 +1,3 @@
+defcolor 255 0 0 255
+circ fill 32 32 9
+write 500 300 this is a test
