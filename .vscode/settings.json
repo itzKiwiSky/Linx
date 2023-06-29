@@ -1,0 +1,31 @@
+{
+    "material-icon-theme.folders.associations": {
+        "thirdparty" : "lib",
+        "shell": "other",
+        "native" : "app",
+        "render" : "shader",
+        "loader" : "project",
+        "engine" : "controller",
+        "pl" : "plugin",
+        "images/stages" : "environment",
+        "data/songs": "json",
+        "data/stages" : "json",
+        "preload" : "other",
+        "deps" : "lib",
+        "system" : "controller",
+        "virtualization" : "middleware",
+        "states" : "base",
+        "runtime" : "client",
+        "bios" : "config"
+    },
+    "material-icon-theme.files.associations": {
+        "*.linx" : "dune",
+        "*.lcss" : "shader",
+        "conf.lua" : "settings",
+        ".litversion" : "settings", 
+        "push.lua" : "git",
+        "push.cmd" : "git",
+        ".token" : "settings",
+        "*.mch" : "assembly"
+    }
+}

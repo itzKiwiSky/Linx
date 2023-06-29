@@ -1,5 +1,5 @@
 ;; call Tests/test2.linx
-call Tests/marioBlock.linx
+;; call Tests/marioBlock.linx
 ;; call Tests/polygonTest.linx
 title test
 ;; call Tests/DefvarTest.linx

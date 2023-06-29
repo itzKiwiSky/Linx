@@ -7,9 +7,6 @@ function love.load()
     end
 
     linx = require 'src'
-    test = {"data", test = {"data2"}}
-    print(unpack(test))
-
 end
 
 function love.draw()

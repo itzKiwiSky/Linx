@@ -4,6 +4,9 @@ return {
         local values = pack(...)
         --print(debug.getTableContent(values))
         if vartype == "color" then
+            if #values > 4 then
+                table.insert(values, 255)
+            end
             for v = #values, 5, -1 do
                 table.remove(values, v)
             end
